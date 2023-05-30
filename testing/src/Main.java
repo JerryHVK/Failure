@@ -17,12 +17,12 @@ public class Main {
 
         // TODO: get all the links of characters into "listlink"
         linkArraylist.add("https://nguoikesu.com/nhan-vat?start");
-        for(int i=1; i<=5; i++){ //218
+        for(int i=1; i<=218; i++){ //218
             String link = "https://nguoikesu.com/nhan-vat?start=" + String.valueOf(i*5);
             linkArraylist.add(link);
         }
 
-        for(int i=0; i<=5; i++){
+        for(int i=0; i<=linkArraylist.size(); i++){
             Document doc = Jsoup.connect(linkArraylist.get(i)).get();
             Elements names = doc.select("h2[itemprop=name]").select("a");
             for(int j=0; j< names.size(); j++){
