@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Super Project OOP.iml" filepath="$PROJECT_DIR$/.idea/Super Project OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl - nguoi ke su/crawl - nguoi ke su.iml" filepath="$PROJECT_DIR$/crawl - nguoi ke su/crawl - nguoi ke su.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl bang nhan/crawl bang nhan.iml" filepath="$PROJECT_DIR$/crawl bang nhan/crawl bang nhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl hau phi/crawl hau phi.iml" filepath="$PROJECT_DIR$/crawl hau phi/crawl hau phi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl trang nguyen/crawl trang nguyen.iml" filepath="$PROJECT_DIR$/crawl trang nguyen/crawl trang nguyen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vua/test/test.iml" filepath="$PROJECT_DIR$/vua/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/testing.iml" filepath="$PROJECT_DIR$/testing/testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trangnguyenbangnhan/trangnguyenbangnhan.iml" filepath="$PROJECT_DIR$/trangnguyenbangnhan/trangnguyenbangnhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vua/vua.iml" filepath="$PROJECT_DIR$/vua/vua.iml" />
+    </modules>
+  </component>
+</project>
