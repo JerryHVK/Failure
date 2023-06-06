@@ -21,7 +21,8 @@ public class y {
         Elements th = rows.select("th").removeAttr("colspan");
         String name = th.get(0).text();
 
-        for (int i = 1; i < th.size(); i++) {
+        //Currently not using
+        /*for (int i = 1; i < th.size(); i++) {
             key.add(th.get(i).text());
             Element o = th.get(i).nextElementSibling();
             value.add(o.text());
@@ -45,6 +46,6 @@ public class y {
             fileWriter.write(json);
         } catch (IOException e) {
             e.printStackTrace();
-        }
+        }*/
     }
 }
